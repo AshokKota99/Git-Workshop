@@ -1,1 +1,29 @@
-sample file
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Resume</title>
+    </head>
+    <body>
+        <h1 align=center >Ashok Kota</h1>
+        <hr>
+        <h3 align="center">Web Developer</h3>
+        <hr>
+        <h3 align="left">Contact</h3>
+        <hr style="width:10%;text-align:left;margin-left:0">
+        <p>Email:<a href = "mailto:ashokkota0605@gmail.com">ashokkota0605@gmail.com</a></p>
+        <p>Phone No:<a href="tel:9182922794">9182922794</a></p>
+        <p>Linkedin:<a href="https://in.linkedin.com/">Ashok Kota</a></p>
+        <p>Git Hub:<a href="https://github.com/join/recommended_plan">AshokKota99</a></p>
+        <br>
+        <h3 align=left>Skills</h3>
+        <hr style="width:10%;text-align:left;margin-left:0">
+        <p>Time Management</p>
+        <p>Team Worker</p>
+        <p>Communication Skills</p>
+        <p>Technical Skills</p>
+        <h3 align=left>Education</h3>
+        <hr style="width:10%;text-align:left;margin-left:0">
+        <h4>R.V.R & J.C College Of Engineering</h4>
+        <b>CSE-DS</b>
+    </body>
+    </html>
